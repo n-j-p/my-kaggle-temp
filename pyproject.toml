@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "my-kaggle"
+version = "0.1"
+authors = [{name = "n-j-p"}]
+description = "Python package to demo pip install to a kaggle notebook."
+readme = "README.md"
+license = {file = "LICENSE"}
