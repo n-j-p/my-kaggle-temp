@@ -1,1 +1,1 @@
-from .autoload import *
+from autoload import *
