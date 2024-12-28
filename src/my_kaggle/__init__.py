@@ -2,5 +2,5 @@ def square(x):
     return x**2
 
 
-import .constants
-import functions
+import my_kaggle.constants
+import my_kaggle.functions
